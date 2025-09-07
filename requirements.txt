@@ -1,0 +1,19 @@
+# Stock Price Prediction Dependencies
+
+# Data Collection
+alpaca-py>=0.42.0
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Machine Learning
+tensorflow>=2.13.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+python-dateutil>=2.8.0
