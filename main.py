@@ -29,7 +29,7 @@ def main():
     # Configuration
     API_KEY = "PKU21LNR9BAPGDEJGRB3"
     API_SECRET = "axPiIoCPh2JLwN5v0lk902b7L1PODtwJ6rRCSaWk"
-    SYMBOL = "AAPL"
+    SYMBOL = "TSLA"
     
     print("🚀 Starting Stock Price Prediction Pipeline")
     print("=" * 50)

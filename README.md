@@ -47,6 +47,10 @@ stockpricepredictor/
 
 ## Usage 🚀
 
+   - source venv/bin/activate
+   - pip install -r requirements.txt
+   - python main.py
+
 ### Quick Start
 
 Run the complete pipeline:
